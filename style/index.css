@@ -1,0 +1,16 @@
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: teal;
+    padding: 10px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  #navbar a:hover {
+    color: white;
+  }
+  #navbar a {
+    cursor: pointer;
+  }
